@@ -29,7 +29,7 @@ class Dishdetail extends Component {
   }
 
   static navigationOptions = {
-    title: "Menu",
+    title: "Dish Details",
   };
 
   render() {
